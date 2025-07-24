@@ -20,7 +20,7 @@ the game awards two titles "Novice" for bad or average perfomance and "Golden Wa
   <li>Visual Studio Code</li>
 </ul>
 <h2>Complete Portfolio Walkthrough On Youtube:</h2>
-<h3 font-size="30px"><a href="https://youtu.be/4ryEIU2y5po">CLICK ME :)</a></h3>
+<h3 font-size="30px"><a href="https://youtu.be/_rxXGFvCNhY">CLICK ME :)</a></h3>
 
 <h2>DISCLAIMER: </h2>
 <p>NO AI OR TEMPLATES WERE USED IN THE CREATION OF THIS PROJECT</p>
