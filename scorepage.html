@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionnaire</title>
+    <link rel="stylesheet" href="./css/score.css">
+    <link rel="stylesheet" href="fontawesome/css/all.css">
+ 
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="content">
+
+            <H1>The Five Star Questionnaire</H1>
+
+            <P class="message"> Congratulations <span id="player-name"></span>!.
+                <br>you have gained <span id="player-score"></span> points and you only used <span
+                    id="player-hints"></span> hints!<br><br>
+                you have earned the title <span id="winner-title"></span>
+            </P>
+            <div class="options">
+                <div class="box">
+                    <i class="fa-solid fa-medal ani1"></i>
+                    <i class="fa-solid fa-medal ani2"></i>
+                    <i class="fa-solid fa-medal ani1"></i>
+                    <i class="fa-solid fa-medal ani2"></i>
+                    <i class="fa-solid fa-medal ani1"></i>
+                </div>
+            </div>
+            <div class="nav-options">
+
+                <div class="answer">Play Again</div>
+            </div>
+            <div class="circles">
+                <div class="dot1">
+                    <i class="fa-regular fa-circle"></i>
+                </div>
+                <div class="dot">
+                    <i class="fa-regular fa-circle"></i>
+                </div>
+                <div class="dot2">
+                    <i class="fa-regular fa-circle"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="glassy-overlay"></div>
+    <canvas></canvas>
+    <script src="./javascript/scoreboard.js"></script>
+
+</body>
+
+</html>
